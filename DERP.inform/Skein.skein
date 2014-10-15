@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x6a676b0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x69325c0" />
+  <item nodeId="node-0x6a676b0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+DERP
+An Interactive Fiction by Dakota Miller
+Release 1 / Serial number 141014 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="5">NO</temporary>
+    <children>
+      <child nodeId="node-0x69325c0" />
+      <child nodeId="node-0x6a7c280" />
+      <child nodeId="node-0x6a67580" />
+      <child nodeId="node-0x6917ae0" />
+      <child nodeId="node-0x6a7c230" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c230">
+    <command xml:space="preserve">x narwal</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0x6917ae0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
+    <children>
+      <child nodeId="node-0x19cc80" />
+    </children>
+  </item>
+  <item nodeId="node-0x19cc80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
+    <children>
+      <child nodeId="node-0x6af8780" />
+    </children>
+  </item>
+  <item nodeId="node-0x6af8780">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Red Room
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">YES</temporary>
+  </item>
+  <item nodeId="node-0x6a67580">
+    <command xml:space="preserve">wear buble wrap</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c1e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c1e0">
+    <command xml:space="preserve">wear bubble wrap</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+  </item>
+  <item nodeId="node-0x6a7c280">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Orange Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7cd30" />
+      <child nodeId="node-0x6a7c2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c2d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Pink Room
+You can see a narwal here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c340" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c340">
+    <command xml:space="preserve">x narwal</command>
+    <result xml:space="preserve"> Nothing other than a pink narwal
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c430" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c430">
+    <command xml:space="preserve">kill narwal</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c480" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c480">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c4d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c540" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c540">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c5b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c5b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c6e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c6e0">
+    <command xml:space="preserve">p</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c3d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c750" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c750">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Pink Room
+You can see a narwal here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c7c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c7c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c830" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c830">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c8a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c8a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Pink Room
+You can see a narwal here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c910" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c910">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c980" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c980">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c620" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c620">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7c670" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7c670">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7cb70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7cb70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Orange Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7cbe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7cbe0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7cc50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7cc50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7ccc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7ccc0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+  </item>
+  <item nodeId="node-0x6a7cd30">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7cda0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7cda0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Purple Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a7ce10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a7ce10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="8">YES</temporary>
+  </item>
+  <item nodeId="node-0x69325c0">
+    <command xml:space="preserve">w</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
+  </item>
+</Skein>
