@@ -29,7 +29,7 @@ White rug is scenery in white room. the description is " a plain white rug with 
 Bubble wrap is a thing. it is wearable. it is in White cube. It is undescribed. the description is "Wrapping made of bubbles"
  
 [red room]
-Red Room is a room. red room is west of white room. "An all red room with various shapes scattered around it, which are also red. In the corner there is a red cube and in the center of the room there is a red sphere. Hanging from the celling is a red celling lamp whit a red bulb inside of it. On the floor is a red rug with a red table on it. to the east there is a door labled door1."
+Red Room is a room. red room is west of white room. "An all red room with various shapes scattered around it, which are also red. In the corner there is a red cube and in the center of the room there is a red sphere. Hanging from the celling is a red celling lamp whit a red bulb inside of it. On the floor is a red rug with a red table on it. to the west there is a door labled door1."
 
 Red sphere is a scenery in red room.  the description is "A plain red sphere"
 
@@ -43,12 +43,12 @@ red table is scenery in red room. the description is "a plain red table on a red
 
 Red rug is scenery in red room. the description is " a plain red rug with a table on it"
 
-paper is a thing [in red room. ]it is on door1. the description is "a crumpled piece of paper"
+paper is a thing in red room. it is undescribed. the description is "a crumpled piece of paper"
  
 [yellow room]
 yellow Room is a room. [yellow room is west of red room.]
 
-"An all yellow room with various shapes scatteyellow around it, which are also yellow. In the corner there is a yellow cube and in the center of the room there is a yellow sphere. Hanging from the celling is a yellow celling lamp whit a yellow bulb inside of it. On the floor is a yellow rug with a yellow table on it."
+"An all yellow room with various shapes scatteyellow around it, which are also yellow. In the corner there is a yellow cube and in the center of the room there is a yellow sphere. Hanging from the celling is a yellow celling lamp whit a yellow bulb inside of it. On the floor is a yellow rug with a yellow table on it. to the west there is a door labled door2"
 
 Yellow sphere is a scenery in yellow room.  the description is "A plain yellow sphere"
 
@@ -63,7 +63,7 @@ yellow table is scenery in yellow room. the description is "a plain yellow table
 Yellow rug is scenery in yellow room. the description is " a plain yellow rug with a table on it"
 
 [blue room]
-Blue Room is a room. "An all blue room with various shapes scatteblue around it, which are also blue. In the corner there is a blue cube and in the center of the room there is a blue sphere. Hanging from the celling is a blue celling lamp whit a blue bulb inside of it. On the floor is a blue rug with a blue table on it."
+Blue Room is a room. "An all blue room with various shapes scatteblue around it, which are also blue. In the corner there is a blue cube and in the center of the room there is a blue sphere. Hanging from the celling is a blue celling lamp whit a blue bulb inside of it. On the floor is a blue rug with a blue table on it. to the west there is a door labled door3"
 
 Blue sphere is a scenery in blue room.  the description is "A plain blue sphere"
 
@@ -175,7 +175,7 @@ Combining it with is an action applying to two things.
 [The line below tells Inform7 that combining produces something.]
 The combining it with action has an object called the Contraption.
 
-[Setting action variables for combining something with something: 
+Setting action variables for combining something with something: 
 	let X be a list of objects;
 	add the noun to X;
 	add the second noun to X;
@@ -184,7 +184,7 @@ The combining it with action has an object called the Contraption.
 		let Y be the parts list entry; 
 		sort Y; 
 		if X is Y: 
-			now the Contraption is the results entry.]
+			now the Contraption is the results entry.
 
 [if there is no match for the combination of things, there is no result for the combining, so STOP the action]
 Check combining it with:
@@ -203,19 +203,18 @@ Report combining it with:
 	say "You now have a [a Contraption]."
 
 
-[Table of Arm Parts
+Table of Arm Parts
 Parts List	Results
-{Clamp, Spatula}	Clamp Spatula Thingy
-{Clamp, Tongs}	Clamp Tong Thingy
+{green elixir, red elixir, orange elixir, white elixir}	Magic potion
+[{Clamp, Tongs}	Clamp Tong Thingy
 {Spatula, Tongs}	Spatula Tong Thingy
 {Clamp Spatula Thingy, Tongs}	Arm Thingy
 {Clamp Tong Thingy, Spatula}	Arm Thingy
 {Spatula Tong Thingy, Clamp}	Arm Thingy
-{Clamp, Spatula, Tongs}	Arm Thingy
+{Clamp, Spatula, Tongs}	Arm Thingy]
 
-The Clamp Spatula Thingy is an object. The description of the Clamp Spatula Thingy is "Clamp and Spatula… Need anything else?"
-The Clamp Tong Thingy is an object. The description of the Clamp Tong Thingy is "Clamp and Pair of Tongs… Need anything else?"
-The Spatula Tong Thingy is an object. The description of the Spatula Tong Thingy is "Spatula and Pair of Tongs… Need anything else?"]
+magic potion is an object. The description of magic potion is "A glowing magic potion that glitters with knowledge (you could use some)"
+
 
 [-----------------------------------------------------------------------------------------------------------------]
 
@@ -282,9 +281,40 @@ say "You run into the wall and die";
 end the story finally saying "You were killed by a Wall";
 end if.
 
-door1 is a door. door1 is scenery. door1 is east of red room and west of yellow room. door1 is openable. door1 is locked. the description is "A door labled door 1 [if paper is on door1] with a piece of paper stuck to it [end if]"
+After reading a command:
+if the player's command includes "read paper" begin;
+say "the paper reads GROW";
+reject the player's command;
+end if;
 
-door2 is a door. door2 is scenery. door2 is east of yellow room and west of blue room. door2 is openable. door2 is locked. the description is "Door 2"
+After reading a command:
+if the player's command includes "drink magic potion" and the player has magic potion begin;
+say "you feel a bit smarter and stronger and also realize that you have a key hanging around your neck";
+move key to the player;
+reject the player's command;
+end if;
 
-door3 is a door. door3 is scenery. door3 is east of blue room and west of win room. door3 is openable. door3 is locked. the description is "Door 3"
+After reading a command:
+if the player's command includes "drink potion" and the player has magic potion begin;
+say "you feel a bit smarter and stronger and also realize that you have a key hanging around your neck";
+move key to the player;
+reject the player's command;
+end if;
 
+door1 is a door. door1 is scenery. door1 is west of red room and east of yellow room. door1 is openable. door1 is locked. the description is "A door labled door 1 [if paper is in red room] with a piece of paper stuck to it [end if]"
+
+door2 is a door. door2 is scenery. door2 is west of yellow room and east of blue room. door2 is openable. door2 is locked. the description is "Door 2"
+
+door3 is a door. door3 is scenery. door3 is west of blue room and east of win room. door3 is openable. door3 is locked. the description is "Door 3"
+
+magic potion is a thing. it is in white room. it is undescribed
+
+ key is a thing. key unlocks door1. "a shiny silver key that had door1 engraved on it"
+
+green elixir is a thing. it is in green room. the description is " a bottle of white fluid  "
+
+red elixir is a thing. it is in red room. the description is " a bottle of red fluid  "
+
+orange elixir is a thing. it is in orange room. the description is " a blttle of orange fluid  "
+
+white amount is a thing. it is in white room. the description is "  a bottle of white fluid "
