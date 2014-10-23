@@ -22,9 +22,9 @@ White celling lamp is a scenery in white room. the description is "A plain white
 
 White cube is a scenery in white room. it is a closed openable container. it is unlocked. the description is "A plain white box"
 
-white table is scenery in white room. the description is "a plain white table on a white rug"
+white table is scenery in white room. the description is "A plain white table on a white rug[if white elixir is on white table], on the table is a white elixir [end if]"
 
-White rug is scenery in white room. the description is " a plain white rug with a table on it"
+White rug is scenery in white room. the description is " A plain white rug with a table on it"
 
 Bubble wrap is a thing. it is wearable. it is in White cube. It is undescribed. the description is "Wrapping made of bubbles"
  
@@ -39,9 +39,9 @@ Red celling lamp is a scenery in red room. the description is "A plain red celli
 
 Red cube is a scenery in red room. it is a closed openable container. it is unlocked. the description is "A plain red box"
 
-red table is scenery in red room. the description is "a plain red table on a red rug"
+red table is scenery in red room. the description is "A plain red table on a red rug [if red elixir is on red table], on the table is a Red elixir [end if]"
 
-Red rug is scenery in red room. the description is " a plain red rug with a table on it"
+Red rug is scenery in red room. the description is " A plain red rug with a table on it"
 
 paper is a thing in red room. it is undescribed. the description is "a crumpled piece of paper"
  
@@ -58,9 +58,9 @@ Yellow celling lamp is a scenery in yellow room. the description is "A plain yel
 
 Yellow cube is a scenery in yellow room. it is a closed openable container. it is unlocked. the description is "A plain yellow box"
 
-yellow table is scenery in yellow room. the description is "a plain yellow table on a yellow rug"
+yellow table is scenery in yellow room. the description is "A plain yellow table on a yellow rug [if yellow elixir is on yellow table], on the table is a yellow elixir [end if]"
 
-Yellow rug is scenery in yellow room. the description is " a plain yellow rug with a table on it"
+Yellow rug is scenery in yellow room. the description is " A plain yellow rug with a table on it"
 
 [blue room]
 Blue Room is a room. "An all blue room with various shapes scatteblue around it, which are also blue. In the corner there is a blue cube and in the center of the room there is a blue sphere. Hanging from the celling is a blue celling lamp whit a blue bulb inside of it. On the floor is a blue rug with a blue table on it. to the west there is a door labled door3"
@@ -73,9 +73,9 @@ Blue celling lamp is a scenery in blue room. the description is "A plain blue ce
 
 Blue cube is a scenery in blue room. it is a closed openable container. it is unlocked. the description is "A plain blue box"
 
-blue table is scenery in blue room. the description is "a plain blue table on a blue rug"
+blue table is scenery in blue room. the description is "A plain blue table on a blue rug [if blue elixir is on blur table], on the table is a blue elixir [end if]"
 
-Blue rug is scenery in blue room. the description is " a plain blue rug with a table on it"
+Blue rug is scenery in blue room. the description is " A plain blue rug with a table on it"
  [blue room is west of yellow room.]
 
 [green room]
@@ -89,9 +89,9 @@ Green celling lamp is a scenery in green room. the description is "A plain green
 
 Green cube is a scenery in green room. it is a closed openable container. it is unlocked. the description is "A plain green box"
 
-green table is scenery in green room. the description is "a plain green table on a green rug"
+green table is scenery in green room. the description is "A plain green table on a green rug [if green elixir is on green table], on the table is a green elixir [end if]"
 
-Green rug is scenery in green room. the description is " a plain green rug with a table on it"
+Green rug is scenery in green room. the description is " A plain green rug with a table on it"
 
 [purple room]
 Purple Room is a room. purple room is east of white room.
@@ -106,9 +106,9 @@ Purple celling lamp is a scenery in purple room. the description is "A plain pur
 
 Purple cube is a scenery in purple room. it is a closed openable container. it is unlocked. the description is "A plain purple box"
 
-purple table is scenery in purple room. the description is "a plain purple table on a purple rug"
+purple table is scenery in purple room. the description is "A plain purple table on a purple rug [if purple elixir is on purple table], on the table is a purple elixir [end if]"
 
-Purple rug is scenery in purple room. the description is " a plain purple rug with a table on it"
+Purple rug is scenery in purple room. the description is " A plain purple rug with a table on it"
 
 
 [orange room]
@@ -122,9 +122,9 @@ Orange celling lamp is a scenery in orange room. the description is "A plain ora
 
 Orange cube is a scenery in orange room. it is a closed openable container. it is unlocked. the description is "A plain orange box"
 
-orange table is scenery in orange room. the description is "a plain orange table on a orange rug"
+orange table is scenery in orange room. the description is "A plain orange table on a orange rug [if orange elixir is on orange table], on the table is a orange elixir [end if]"
 
-Orange rug is scenery in orange room. the description is " a plain orange rug with a table on it"
+Orange rug is scenery in orange room. the description is " A plain orange rug with a table on it"
 
 
 [black room]
@@ -138,9 +138,9 @@ Black celling lamp is a scenery in black room. the description is "A plain black
 
 Black cube is a scenery in black room. it is a closed openable container. it is unlocked. the description is "A plain black box"
 
-black table is scenery in black room. the description is "a plain black table on a black rug"
+black table is scenery in black room. the description is "A plain black table on a black rug [if black elixir is on black table], on the table is a black elixir [end if]"
 
-Black rug is scenery in black room. the description is " a plain black rug with a table on it"
+Black rug is scenery in black room. the description is " A plain black rug with a table on it"
 
 
 [pink room]
@@ -154,9 +154,9 @@ Pink celling lamp is a scenery in pink room. the description is "A plain pink ce
 
 Pink cube is a scenery in pink room. it is a closed openable container. it is unlocked. the description is "A plain pink box"
 
-pink table is scenery in pink room. the description is "a plain pink table on a pink rug"
+pink table is scenery in pink room. the description is "A plain pink table on a pink rug [if pink elixir is on pink table], on the table is a pink elixir [end if]"
 
-Pink rug is scenery in pink room. the description is " a plain pink rug with a table on it"
+Pink rug is scenery in pink room. the description is " A plain pink rug with a table on it"
 
 
 The narwal is a man in pink room. The description is " Nothing other than a pink narwal". The narwal is wearing a tuxedo.
@@ -180,7 +180,7 @@ Setting action variables for combining something with something:
 	add the noun to X;
 	add the second noun to X;
 	sort X; 
-	repeat through the Table of Arm Parts: 
+	repeat through the Table of potion parts: 
 		let Y be the parts list entry; 
 		sort Y; 
 		if X is Y: 
@@ -203,9 +203,15 @@ Report combining it with:
 	say "You now have a [a Contraption]."
 
 
-Table of Arm Parts
+Table of potion Parts
 Parts List	Results
-{green elixir, red elixir, orange elixir, white elixir}	Magic potion
+{red elixir, green elixir}	RedGreen elixir
+{red elixir, orange elixir}	RedORange elixir
+{red elixir, white elixir}	RedGreen elixir
+{green elixir, orange elixir}	GreenOrange elixir
+{green elixir, white elixir}	GreenWhite elixir
+{orange elixir, white elixir}	OrangeWhite elixir
+
 [{Clamp, Tongs}	Clamp Tong Thingy
 {Spatula, Tongs}	Spatula Tong Thingy
 {Clamp Spatula Thingy, Tongs}	Arm Thingy
@@ -225,6 +231,13 @@ if the player's command includes "take all" begin;
 say "You are far too stupid do that";
 reject the player's command;
 end if;
+
+After reading a command:
+if the player's command includes "get all" begin;
+say "You are far too stupid do that";
+reject the player's command;
+end if;
+
 
 After reading a command:
 if the player's command includes "take lamp" begin;
@@ -283,7 +296,7 @@ end if.
 
 After reading a command:
 if the player's command includes "read paper" begin;
-say "the paper reads GROW";
+say "the paper reads GROW your brain";
 reject the player's command;
 end if;
 
@@ -307,14 +320,20 @@ door2 is a door. door2 is scenery. door2 is west of yellow room and east of blue
 
 door3 is a door. door3 is scenery. door3 is west of blue room and east of win room. door3 is openable. door3 is locked. the description is "Door 3"
 
-magic potion is a thing. it is in white room. it is undescribed
-
  key is a thing. key unlocks door1. "a shiny silver key that had door1 engraved on it"
 
-green elixir is a thing. it is in green room. the description is " a bottle of white fluid  "
+green elixir is a thing. it is on green table.  it is undescribed.  the description is " a bottle of white fluid  "
 
-red elixir is a thing. it is in red room. the description is " a bottle of red fluid  "
+red elixir is a thing. it is on red table.  it is undescribed.  the description is " a bottle of red fluid  "
 
-orange elixir is a thing. it is in orange room. the description is " a blttle of orange fluid  "
+orange elixir is a thing. it is on orange table. it is undescribed.  the description is " a blttle of orange fluid  "
 
-white amount is a thing. it is in white room. the description is "  a bottle of white fluid "
+white elixir is a thing. it is on white table. it is undescribed.  the description is "  a bottle of white fluid "
+
+purple elixir is a thing. it is on purple table. it is undescribed.  the description is " a bottle of purple fluid  "
+
+black elixir is a thing. it is on black table.  it is undescribed. the description is " a bottle of black fluid  "
+
+pink elixir is a thing. it is on pink table.  it is undescribed. the description is " a bottle of pink fluid  "
+
+
