@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x1d5000" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x68adb20" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x1d5000" />
-  <item nodeId="node-0x1d5000">
+  <activeNode nodeId="node-0x1d4e90" />
+  <item nodeId="node-0x68adb20">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
-You wake up and realize that you have become considerably dumber and that your brain function and motor skills are a bit off. You think that it may be because of the large ammount of meth that you have been smoking. Anyhow you notice that everything around you is white and that you can barely move around or walk straight. After much thought you realize that you must get out of here before you go insane or die.
+You wake up and realize that you have become considerably dumber and that your brain function and motor skills are a bit off. You think that it may be because of the large amount of meth that you have been smoking. Anyhow you notice that everything around you is white and that you can barely move around or walk straight. After much thought you realize that you must get out of here before you go insane or die.
 
 DERP
 An Interactive Fiction by Dakota Miller
@@ -19,29 +19,29 @@ An all white room with various shapes scattered around it, which are also white.
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="175">NO</temporary>
+    <temporary score="48">NO</temporary>
     <children>
-      <child nodeId="node-0x1d8590" />
-      <child nodeId="node-0x155b0cd0" />
-      <child nodeId="node-0x1d83d0" />
-      <child nodeId="node-0x1d8360" />
-      <child nodeId="node-0x1d7db0" />
-      <child nodeId="node-0x1d7870" />
-      <child nodeId="node-0x1d7720" />
-      <child nodeId="node-0x27bdc0" />
-      <child nodeId="node-0xb91b8e0" />
-      <child nodeId="node-0x1d7480" />
-      <child nodeId="node-0x1d6a70" />
-      <child nodeId="node-0x1d6370" />
-      <child nodeId="node-0x1d7020" />
-      <child nodeId="node-0xcfaf980" />
-      <child nodeId="node-0x155bb800" />
-      <child nodeId="node-0x1d6290" />
-      <child nodeId="node-0x1d54e0" />
-      <child nodeId="node-0x70b5530" />
+      <child nodeId="node-0x68b3f10" />
+      <child nodeId="node-0x68b3ea0" />
+      <child nodeId="node-0x68b3d50" />
+      <child nodeId="node-0x68b3ce0" />
+      <child nodeId="node-0x68b3730" />
+      <child nodeId="node-0x68b3260" />
+      <child nodeId="node-0x68b3110" />
+      <child nodeId="node-0x68af9f0" />
+      <child nodeId="node-0x68afe50" />
+      <child nodeId="node-0x68af750" />
+      <child nodeId="node-0x68af3d0" />
+      <child nodeId="node-0x68ae9b0" />
+      <child nodeId="node-0x68ae0c0" />
+      <child nodeId="node-0x1c2ab0" />
+      <child nodeId="node-0x68adf90" />
+      <child nodeId="node-0x68aded0" />
+      <child nodeId="node-0x68adbe0" />
+      <child nodeId="node-0x68adb90" />
     </children>
   </item>
-  <item nodeId="node-0x70b5530">
+  <item nodeId="node-0x68adb90">
     <command xml:space="preserve">drink orange elixir</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -50,7 +50,7 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
   </item>
-  <item nodeId="node-0x1d54e0">
+  <item nodeId="node-0x68adbe0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -65,11 +65,11 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="32">YES</temporary>
     <children>
-      <child nodeId="node-0x1d5680" />
-      <child nodeId="node-0x1d5610" />
+      <child nodeId="node-0x68add10" />
+      <child nodeId="node-0x68adc30" />
     </children>
   </item>
-  <item nodeId="node-0x1d5610">
+  <item nodeId="node-0x68adc30">
     <command xml:space="preserve">restart</command>
     <result xml:space="preserve">
 
@@ -87,16 +87,16 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="32">YES</temporary>
     <children>
-      <child nodeId="node-0x1d5300" />
+      <child nodeId="node-0x68adca0" />
     </children>
   </item>
-  <item nodeId="node-0x1d5300">
+  <item nodeId="node-0x68adca0">
     <command xml:space="preserve">s</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="31">YES</temporary>
   </item>
-  <item nodeId="node-0x1d5680">
+  <item nodeId="node-0x68add10">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">Please give one of the answers above.
 
@@ -106,10 +106,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d56f0" />
+      <child nodeId="node-0x68add90" />
     </children>
   </item>
-  <item nodeId="node-0x1d56f0">
+  <item nodeId="node-0x68add90">
     <command xml:space="preserve">undo</command>
     <result xml:space="preserve">White Room
 [Previous turn undone.]
@@ -119,10 +119,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d5760" />
+      <child nodeId="node-0x68ade80" />
     </children>
   </item>
-  <item nodeId="node-0x1d5760">
+  <item nodeId="node-0x68ade80">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -137,7 +137,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="32">YES</temporary>
   </item>
-  <item nodeId="node-0x1d6290">
+  <item nodeId="node-0x68aded0">
     <command xml:space="preserve">wear buble wrap</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -146,135 +146,41 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6300" />
+      <child nodeId="node-0x68adf20" />
     </children>
   </item>
-  <item nodeId="node-0x1d6300">
+  <item nodeId="node-0x68adf20">
     <command xml:space="preserve">wear bubble wrap</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
   </item>
-  <item nodeId="node-0x155bb800">
+  <item nodeId="node-0x68adf90">
     <command xml:space="preserve">open cube</command>
     <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="173">YES</temporary>
-  </item>
-  <item nodeId="node-0xcfaf980">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You run into the wall and die
-
-
-    *** You were killed by a Wall ***
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-    <played>YES</played>
     <changed>NO</changed>
-    <temporary score="168">YES</temporary>
+    <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0xf744bc0" />
+      <child nodeId="node-0xb380940" />
     </children>
   </item>
-  <item nodeId="node-0xf744bc0">
-    <command xml:space="preserve">undo</command>
-    <result xml:space="preserve">White Room
-[Previous turn undone.]
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0xb96ec60" />
-    </children>
-  </item>
-  <item nodeId="node-0xb96ec60">
-    <command xml:space="preserve">open white cube</command>
-    <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0x100450" />
-    </children>
-  </item>
-  <item nodeId="node-0x100450">
-    <command xml:space="preserve">take bubble wrap</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0xb9f5fb0" />
-    </children>
-  </item>
-  <item nodeId="node-0xb9f5fb0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You run into the wall and die
-
-
-    *** You were killed by a Wall ***
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0x12137550" />
-    </children>
-  </item>
-  <item nodeId="node-0x12137550">
-    <command xml:space="preserve">undo</command>
-    <result xml:space="preserve">White Room
-[Previous turn undone.]
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0xe541c80" />
-    </children>
-  </item>
-  <item nodeId="node-0xe541c80">
+  <item nodeId="node-0xb380940">
     <command xml:space="preserve">wear bubble wrap</command>
-    <result xml:space="preserve">You put on Bubble wrap.
+    <result xml:space="preserve">(first taking Bubble wrap)
+You put on Bubble wrap.
 
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="168">YES</temporary>
+    <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0xcf4a190" />
+      <child nodeId="node-0x68df630" />
     </children>
   </item>
-  <item nodeId="node-0xcf4a190">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="168">YES</temporary>
-    <children>
-      <child nodeId="node-0xb96c9c0" />
-    </children>
-  </item>
-  <item nodeId="node-0xb96c9c0">
+  <item nodeId="node-0x68df630">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Purple Room
@@ -283,12 +189,12 @@ An all purple room with various shapes scattered around it, which are also purpl
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="168">YES</temporary>
+    <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0xcffb790" />
+      <child nodeId="node-0x6866280" />
     </children>
   </item>
-  <item nodeId="node-0xcffb790">
+  <item nodeId="node-0x6866280">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pink Room
@@ -298,10 +204,158 @@ You can see a pink narwal here.
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="167">YES</temporary>
+    <changed>NO</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x5aa210" />
+    </children>
   </item>
-  <item nodeId="node-0x1d7020">
+  <item nodeId="node-0x5aa210">
+    <command xml:space="preserve">talk to pink narwal</command>
+    <result xml:space="preserve">You can ask the narwal about: 
+ door1 
+ door2 
+ door3
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x68c8960" />
+    </children>
+  </item>
+  <item nodeId="node-0x68c8960">
+    <command xml:space="preserve">ask narwal about door3</command>
+    <result xml:space="preserve">I can&apos;t Pin down how to open that door
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x97ab920" />
+    </children>
+  </item>
+  <item nodeId="node-0x97ab920">
+    <command xml:space="preserve">ask narwal about door2</command>
+    <result xml:space="preserve">you seem to be in a Sticky situation
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0xb930db0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb930db0">
+    <command xml:space="preserve">ask about door2</command>
+    <result xml:space="preserve">you seem to be in a Sticky situation
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0xb92d1b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb92d1b0">
+    <command xml:space="preserve">ask about door1</command>
+    <result xml:space="preserve">you must GROW your brain to be smart enough to open the door
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x9772500" />
+    </children>
+  </item>
+  <item nodeId="node-0x9772500">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Purple Room
+An all purple room with various shapes scattered around it, which are also purple. In the corner there is a purple cube and in the center of the room there is a purple sphere. Hanging from the celling is a purple celling lamp whit a purple bulb inside of it. On the floor is a purple rug with a purple table on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0xb9d61b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb9d61b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+An all white room with various shapes scattered around it, which are also white. In the corner there is a white cube and in the center of the room there is a white sphere. Hanging from the celling is a white celling lamp white a white bulb inside of it. On the floor is a white rug with a white table on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0xb9cf710" />
+    </children>
+  </item>
+  <item nodeId="node-0xb9cf710">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Red Room
+An all red room with various shapes scattered around it, which are also red. In the corner there is a red cube and in the center of the room there is a red sphere. Hanging from the celling is a red celling lamp whit a red bulb inside of it. On the floor is a red rug with a red table on it. to the west there is a door labeled door1.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x97a9a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x97a9a00">
+    <command xml:space="preserve">unloc door1</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d4e90" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d4e90">
+    <command xml:space="preserve">unlock door1</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="47">YES</temporary>
+  </item>
+  <item nodeId="node-0x1c2ab0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">The use of &quot;undo&quot; is forbidden in this game.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d4390" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d4390">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You run into the wall and die
+
+
+    *** You were killed by a Wall ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0x68ae0c0">
     <command xml:space="preserve">take magic potion</command>
     <result xml:space="preserve">You already have that.
 
@@ -310,11 +364,11 @@ You can see a pink narwal here.
     <changed>YES</changed>
     <temporary score="67">YES</temporary>
     <children>
-      <child nodeId="node-0x1d73a0" />
-      <child nodeId="node-0x1d7090" />
+      <child nodeId="node-0x68ae8d0" />
+      <child nodeId="node-0x68ae5c0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7090">
+  <item nodeId="node-0x68ae5c0">
     <command xml:space="preserve">open white cube</command>
     <result xml:space="preserve">You open White cube, revealing nothing.
 
@@ -323,10 +377,10 @@ You can see a pink narwal here.
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7100" />
+      <child nodeId="node-0x68ae630" />
     </children>
   </item>
-  <item nodeId="node-0x1d7100">
+  <item nodeId="node-0x68ae630">
     <command xml:space="preserve">put on bubble wrap</command>
     <result xml:space="preserve">(first taking Bubble wrap)
 You put on Bubble wrap.
@@ -336,10 +390,10 @@ You put on Bubble wrap.
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7170" />
+      <child nodeId="node-0x68ae6a0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7170">
+  <item nodeId="node-0x68ae6a0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -350,10 +404,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d71e0" />
+      <child nodeId="node-0x68ae710" />
     </children>
   </item>
-  <item nodeId="node-0x1d71e0">
+  <item nodeId="node-0x68ae710">
     <command xml:space="preserve">drink magic potion</command>
     <result xml:space="preserve">you feel a bit smarter
 &gt;</result>
@@ -361,10 +415,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7250" />
+      <child nodeId="node-0x68ae780" />
     </children>
   </item>
-  <item nodeId="node-0x1d7250">
+  <item nodeId="node-0x68ae780">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -375,10 +429,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d72c0" />
+      <child nodeId="node-0x68ae7f0" />
     </children>
   </item>
-  <item nodeId="node-0x1d72c0">
+  <item nodeId="node-0x68ae7f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -389,10 +443,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7330" />
+      <child nodeId="node-0x68ae860" />
     </children>
   </item>
-  <item nodeId="node-0x1d7330">
+  <item nodeId="node-0x68ae860">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening door1)
 It seems to be locked.
@@ -402,7 +456,7 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
   </item>
-  <item nodeId="node-0x1d73a0">
+  <item nodeId="node-0x68ae8d0">
     <command xml:space="preserve">drink magic potion</command>
     <result xml:space="preserve">you feel a bit smarter and stronger
 &gt;</result>
@@ -410,10 +464,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="67">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7410" />
+      <child nodeId="node-0x68ae940" />
     </children>
   </item>
-  <item nodeId="node-0x1d7410">
+  <item nodeId="node-0x68ae940">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -428,7 +482,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="66">YES</temporary>
   </item>
-  <item nodeId="node-0x1d6370">
+  <item nodeId="node-0x68ae9b0">
     <command xml:space="preserve">OPEN WHITE CUBE</command>
     <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
 
@@ -437,10 +491,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d63e0" />
+      <child nodeId="node-0x68aea20" />
     </children>
   </item>
-  <item nodeId="node-0x1d63e0">
+  <item nodeId="node-0x68aea20">
     <command xml:space="preserve">wear bubble wrap</command>
     <result xml:space="preserve">(first taking Bubble wrap)
 You put on Bubble wrap.
@@ -450,10 +504,10 @@ You put on Bubble wrap.
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6450" />
+      <child nodeId="node-0x68ae440" />
     </children>
   </item>
-  <item nodeId="node-0x1d6450">
+  <item nodeId="node-0x68ae440">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -464,10 +518,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d64c0" />
+      <child nodeId="node-0x68ae4b0" />
     </children>
   </item>
-  <item nodeId="node-0x1d64c0">
+  <item nodeId="node-0x68ae4b0">
     <command xml:space="preserve">open door1</command>
     <result xml:space="preserve">It seems to be locked.
 
@@ -476,10 +530,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6530" />
+      <child nodeId="node-0x68ae520" />
     </children>
   </item>
-  <item nodeId="node-0x1d6530">
+  <item nodeId="node-0x68ae520">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -490,10 +544,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d65a0" />
+      <child nodeId="node-0x68aecd0" />
     </children>
   </item>
-  <item nodeId="node-0x1d65a0">
+  <item nodeId="node-0x68aecd0">
     <command xml:space="preserve">take glue</command>
     <result xml:space="preserve">Taken.
 
@@ -502,10 +556,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6610" />
+      <child nodeId="node-0x68aed40" />
     </children>
   </item>
-  <item nodeId="node-0x1d6610">
+  <item nodeId="node-0x68aed40">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -514,10 +568,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6680" />
+      <child nodeId="node-0x68aedb0" />
     </children>
   </item>
-  <item nodeId="node-0x1d6680">
+  <item nodeId="node-0x68aedb0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -528,10 +582,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d66f0" />
+      <child nodeId="node-0x68aee20" />
     </children>
   </item>
-  <item nodeId="node-0x1d66f0">
+  <item nodeId="node-0x68aee20">
     <command xml:space="preserve">take red elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -540,10 +594,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6760" />
+      <child nodeId="node-0x68aee90" />
     </children>
   </item>
-  <item nodeId="node-0x1d6760">
+  <item nodeId="node-0x68aee90">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -554,10 +608,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d67d0" />
+      <child nodeId="node-0x68aef00" />
     </children>
   </item>
-  <item nodeId="node-0x1d67d0">
+  <item nodeId="node-0x68aef00">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Purple Room
@@ -568,10 +622,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6840" />
+      <child nodeId="node-0x68aef70" />
     </children>
   </item>
-  <item nodeId="node-0x1d6840">
+  <item nodeId="node-0x68aef70">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 White Room
@@ -582,10 +636,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d68b0" />
+      <child nodeId="node-0x68aefe0" />
     </children>
   </item>
-  <item nodeId="node-0x1d68b0">
+  <item nodeId="node-0x68aefe0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green Room
@@ -596,10 +650,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d5f70" />
+      <child nodeId="node-0x68af050" />
     </children>
   </item>
-  <item nodeId="node-0x1d5f70">
+  <item nodeId="node-0x68af050">
     <command xml:space="preserve">take green elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -608,10 +662,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d5fe0" />
+      <child nodeId="node-0x68af0c0" />
     </children>
   </item>
-  <item nodeId="node-0x1d5fe0">
+  <item nodeId="node-0x68af0c0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   green elixir
@@ -625,10 +679,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6050" />
+      <child nodeId="node-0x68af130" />
     </children>
   </item>
-  <item nodeId="node-0x1d6050">
+  <item nodeId="node-0x68af130">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 White Room
@@ -639,10 +693,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d60c0" />
+      <child nodeId="node-0x68af1a0" />
     </children>
   </item>
-  <item nodeId="node-0x1d60c0">
+  <item nodeId="node-0x68af1a0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -653,10 +707,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6130" />
+      <child nodeId="node-0x68af210" />
     </children>
   </item>
-  <item nodeId="node-0x1d6130">
+  <item nodeId="node-0x68af210">
     <command xml:space="preserve">take orand elixir</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -665,10 +719,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6920" />
+      <child nodeId="node-0x68af280" />
     </children>
   </item>
-  <item nodeId="node-0x1d6920">
+  <item nodeId="node-0x68af280">
     <command xml:space="preserve">take orange elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -677,10 +731,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6990" />
+      <child nodeId="node-0x68af2f0" />
     </children>
   </item>
-  <item nodeId="node-0x1d6990">
+  <item nodeId="node-0x68af2f0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   orange elixir
@@ -695,16 +749,16 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6a00" />
+      <child nodeId="node-0x68af360" />
     </children>
   </item>
-  <item nodeId="node-0x1d6a00">
+  <item nodeId="node-0x68af360">
     <command xml:space="preserve">combine glue with bubble wrap</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="32">YES</temporary>
   </item>
-  <item nodeId="node-0x1d6a70">
+  <item nodeId="node-0x68af3d0">
     <command xml:space="preserve">open white cube </command>
     <result xml:space="preserve">You open White cube, revealing nothing.
 
@@ -713,10 +767,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6ae0" />
+      <child nodeId="node-0x68aea90" />
     </children>
   </item>
-  <item nodeId="node-0x1d6ae0">
+  <item nodeId="node-0x68aea90">
     <command xml:space="preserve">wear buble wrap</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -725,10 +779,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6b50" />
+      <child nodeId="node-0x68aeb00" />
     </children>
   </item>
-  <item nodeId="node-0x1d6b50">
+  <item nodeId="node-0x68aeb00">
     <command xml:space="preserve">wear bubble wrap</command>
     <result xml:space="preserve">(first taking Bubble wrap)
 You put on Bubble wrap.
@@ -738,10 +792,10 @@ You put on Bubble wrap.
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6bc0" />
+      <child nodeId="node-0x68aeb70" />
     </children>
   </item>
-  <item nodeId="node-0x1d6bc0">
+  <item nodeId="node-0x68aeb70">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -752,10 +806,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6c30" />
+      <child nodeId="node-0x68aebe0" />
     </children>
   </item>
-  <item nodeId="node-0x1d6c30">
+  <item nodeId="node-0x68aebe0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -766,10 +820,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6ca0" />
+      <child nodeId="node-0x68aec50" />
     </children>
   </item>
-  <item nodeId="node-0x1d6ca0">
+  <item nodeId="node-0x68aec50">
     <command xml:space="preserve">take magic potion</command>
     <result xml:space="preserve">Taken.
 
@@ -778,10 +832,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6d10" />
+      <child nodeId="node-0x68af440" />
     </children>
   </item>
-  <item nodeId="node-0x1d6d10">
+  <item nodeId="node-0x68af440">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Purple Room
@@ -792,10 +846,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6d80" />
+      <child nodeId="node-0x68af4b0" />
     </children>
   </item>
-  <item nodeId="node-0x1d6d80">
+  <item nodeId="node-0x68af4b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 White Room
@@ -806,10 +860,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6df0" />
+      <child nodeId="node-0x68af520" />
     </children>
   </item>
-  <item nodeId="node-0x1d6df0">
+  <item nodeId="node-0x68af520">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -820,10 +874,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6e60" />
+      <child nodeId="node-0x68af590" />
     </children>
   </item>
-  <item nodeId="node-0x1d6e60">
+  <item nodeId="node-0x68af590">
     <command xml:space="preserve">deink magic potion</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -832,10 +886,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6ed0" />
+      <child nodeId="node-0x68af600" />
     </children>
   </item>
-  <item nodeId="node-0x1d6ed0">
+  <item nodeId="node-0x68af600">
     <command xml:space="preserve">drink magic potion</command>
     <result xml:space="preserve">you feel a bit smarter and stronger and also realize that you have a key hanging around your neck
 &gt;</result>
@@ -843,10 +897,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6f40" />
+      <child nodeId="node-0x68af670" />
     </children>
   </item>
-  <item nodeId="node-0x1d6f40">
+  <item nodeId="node-0x68af670">
     <command xml:space="preserve">x key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -855,10 +909,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="104">YES</temporary>
     <children>
-      <child nodeId="node-0x1d6fb0" />
+      <child nodeId="node-0x68af6e0" />
     </children>
   </item>
-  <item nodeId="node-0x1d6fb0">
+  <item nodeId="node-0x68af6e0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   magic potion
@@ -869,7 +923,7 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="103">YES</temporary>
   </item>
-  <item nodeId="node-0x1d7480">
+  <item nodeId="node-0x68af750">
     <command xml:space="preserve">drink magic potion</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -878,11 +932,11 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="50">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7640" />
-      <child nodeId="node-0x1d74f0" />
+      <child nodeId="node-0x68af910" />
+      <child nodeId="node-0x68af7c0" />
     </children>
   </item>
-  <item nodeId="node-0x1d74f0">
+  <item nodeId="node-0x68af7c0">
     <command xml:space="preserve">take magic potion</command>
     <result xml:space="preserve">Taken.
 
@@ -891,10 +945,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="40">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7560" />
+      <child nodeId="node-0x68af830" />
     </children>
   </item>
-  <item nodeId="node-0x1d7560">
+  <item nodeId="node-0x68af830">
     <command xml:space="preserve">drink mgic potion</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -903,10 +957,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>NO</changed>
     <temporary score="40">YES</temporary>
     <children>
-      <child nodeId="node-0x1d75d0" />
+      <child nodeId="node-0x68af8a0" />
     </children>
   </item>
-  <item nodeId="node-0x1d75d0">
+  <item nodeId="node-0x68af8a0">
     <command xml:space="preserve">drink magic potion</command>
     <result xml:space="preserve">the paper reads GROW
 &gt;</result>
@@ -914,7 +968,7 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="39">YES</temporary>
   </item>
-  <item nodeId="node-0x1d7640">
+  <item nodeId="node-0x68af910">
     <command xml:space="preserve">open wite</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -923,139 +977,16 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="50">YES</temporary>
     <children>
-      <child nodeId="node-0x1d76b0" />
+      <child nodeId="node-0x68af980" />
     </children>
   </item>
-  <item nodeId="node-0x1d76b0">
+  <item nodeId="node-0x68af980">
     <command xml:space="preserve">open cube</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
   </item>
-  <item nodeId="node-0xb91b8e0">
-    <command xml:space="preserve">x door</command>
-    <result xml:space="preserve">please specify which door you want to examine
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0x120a10" />
-    </children>
-  </item>
-  <item nodeId="node-0x120a10">
-    <command xml:space="preserve">x door2</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0xcfc38d0" />
-    </children>
-  </item>
-  <item nodeId="node-0xcfc38d0">
-    <command xml:space="preserve">x door1</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0x70b6170" />
-    </children>
-  </item>
-  <item nodeId="node-0x70b6170">
-    <command xml:space="preserve">x door3</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0xb9daac0" />
-    </children>
-  </item>
-  <item nodeId="node-0xb9daac0">
-    <command xml:space="preserve">open cube</command>
-    <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0xb9da520" />
-    </children>
-  </item>
-  <item nodeId="node-0xb9da520">
-    <command xml:space="preserve">wear bubble wrap</command>
-    <result xml:space="preserve">(first taking Bubble wrap)
-You put on Bubble wrap.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0x20be10" />
-    </children>
-  </item>
-  <item nodeId="node-0x20be10">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Purple Room
-An all purple room with various shapes scattered around it, which are also purple. In the corner there is a purple cube and in the center of the room there is a purple sphere. Hanging from the celling is a purple celling lamp whit a purple bulb inside of it. On the floor is a purple rug with a purple table on it.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0xb941070" />
-    </children>
-  </item>
-  <item nodeId="node-0xb941070">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-White Room
-An all white room with various shapes scattered around it, which are also white. In the corner there is a white cube and in the center of the room there is a white sphere. Hanging from the celling is a white celling lamp white a white bulb inside of it. On the floor is a white rug with a white table on it.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0xcf6d4d0" />
-    </children>
-  </item>
-  <item nodeId="node-0xcf6d4d0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Red Room
-An all red room with various shapes scattered around it, which are also red. In the corner there is a red cube and in the center of the room there is a red sphere. Hanging from the celling is a red celling lamp whit a red bulb inside of it. On the floor is a red rug with a red table on it. to the west there is a door labled door1.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="148">YES</temporary>
-    <children>
-      <child nodeId="node-0x70ed970" />
-    </children>
-  </item>
-  <item nodeId="node-0x70ed970">
-    <command xml:space="preserve">x door1</command>
-    <result xml:space="preserve">A door labled Door1 with a piece of paper stuck to it 
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="147">YES</temporary>
-  </item>
-  <item nodeId="node-0x27bdc0">
+  <item nodeId="node-0x68afe50">
     <command xml:space="preserve">use the screen hero chat</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1064,10 +995,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x30a3a0" />
+      <child nodeId="node-0x68afec0" />
     </children>
   </item>
-  <item nodeId="node-0x30a3a0">
+  <item nodeId="node-0x68afec0">
     <command xml:space="preserve">x cube</command>
     <result xml:space="preserve">A plain white box
 
@@ -1076,10 +1007,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x149e00" />
+      <child nodeId="node-0x68aff30" />
     </children>
   </item>
-  <item nodeId="node-0x149e00">
+  <item nodeId="node-0x68aff30">
     <command xml:space="preserve">x sphere</command>
     <result xml:space="preserve">A plain white sphere
 
@@ -1088,10 +1019,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x2d7dc0" />
+      <child nodeId="node-0x68affa0" />
     </children>
   </item>
-  <item nodeId="node-0x2d7dc0">
+  <item nodeId="node-0x68affa0">
     <command xml:space="preserve">x lamp</command>
     <result xml:space="preserve">A plain white celling lamp
 
@@ -1100,10 +1031,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x703f150" />
+      <child nodeId="node-0x68b0010" />
     </children>
   </item>
-  <item nodeId="node-0x703f150">
+  <item nodeId="node-0x68b0010">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">A plain white table on a white rug, on the table is a white elixir 
 
@@ -1112,10 +1043,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7055190" />
+      <child nodeId="node-0x68b0080" />
     </children>
   </item>
-  <item nodeId="node-0x7055190">
+  <item nodeId="node-0x68b0080">
     <command xml:space="preserve">take rug</command>
     <result xml:space="preserve">That&apos;s hardly portable.
 
@@ -1124,10 +1055,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x20c070" />
+      <child nodeId="node-0x68b00f0" />
     </children>
   </item>
-  <item nodeId="node-0x20c070">
+  <item nodeId="node-0x68b00f0">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -1136,10 +1067,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7034e00" />
+      <child nodeId="node-0x68b0160" />
     </children>
   </item>
-  <item nodeId="node-0x7034e00">
+  <item nodeId="node-0x68b0160">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   white elixir
@@ -1149,10 +1080,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7034f20" />
+      <child nodeId="node-0x68b01d0" />
     </children>
   </item>
-  <item nodeId="node-0x7034f20">
+  <item nodeId="node-0x68b01d0">
     <command xml:space="preserve">drink elixir</command>
     <result xml:space="preserve">There&apos;s nothing suitable to drink here.
 
@@ -1161,10 +1092,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x705e4a0" />
+      <child nodeId="node-0x68b0240" />
     </children>
   </item>
-  <item nodeId="node-0x705e4a0">
+  <item nodeId="node-0x68b0240">
     <command xml:space="preserve">take cube</command>
     <result xml:space="preserve">That&apos;s hardly portable.
 
@@ -1173,10 +1104,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70343f0" />
+      <child nodeId="node-0x68b02b0" />
     </children>
   </item>
-  <item nodeId="node-0x70343f0">
+  <item nodeId="node-0x68b02b0">
     <command xml:space="preserve">use elixir on cube</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1185,10 +1116,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x705a9a0" />
+      <child nodeId="node-0x68b0320" />
     </children>
   </item>
-  <item nodeId="node-0x705a9a0">
+  <item nodeId="node-0x68b0320">
     <command xml:space="preserve">x rug</command>
     <result xml:space="preserve"> A plain white rug with a table on it
 
@@ -1197,10 +1128,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7057e90" />
+      <child nodeId="node-0x68b0390" />
     </children>
   </item>
-  <item nodeId="node-0x7057e90">
+  <item nodeId="node-0x68b0390">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">A plain white table on a white rug
 
@@ -1209,10 +1140,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x2d5230" />
+      <child nodeId="node-0x68b0400" />
     </children>
   </item>
-  <item nodeId="node-0x2d5230">
+  <item nodeId="node-0x68b0400">
     <command xml:space="preserve">put elixir on cube</command>
     <result xml:space="preserve">Putting things on White cube would achieve nothing.
 
@@ -1221,10 +1152,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7031b60" />
+      <child nodeId="node-0x68b0470" />
     </children>
   </item>
-  <item nodeId="node-0x7031b60">
+  <item nodeId="node-0x68b0470">
     <command xml:space="preserve">put elixir on sphere</command>
     <result xml:space="preserve">Putting things on White sphere would achieve nothing.
 
@@ -1233,10 +1164,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x225a20" />
+      <child nodeId="node-0x68b04e0" />
     </children>
   </item>
-  <item nodeId="node-0x225a20">
+  <item nodeId="node-0x68b04e0">
     <command xml:space="preserve">move cube</command>
     <result xml:space="preserve">It is fixed in place.
 
@@ -1245,10 +1176,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x17aa40" />
+      <child nodeId="node-0x68b0550" />
     </children>
   </item>
-  <item nodeId="node-0x17aa40">
+  <item nodeId="node-0x68b0550">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -1263,10 +1194,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb938c90" />
+      <child nodeId="node-0x68b05c0" />
     </children>
   </item>
-  <item nodeId="node-0xb938c90">
+  <item nodeId="node-0x68b05c0">
     <command xml:space="preserve">also theres a contost</command>
     <result xml:space="preserve">Please give one of the answers above.
 
@@ -1276,10 +1207,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1a4f50" />
+      <child nodeId="node-0x68b0630" />
     </children>
   </item>
-  <item nodeId="node-0x1a4f50">
+  <item nodeId="node-0x68b0630">
     <command xml:space="preserve">undo</command>
     <result xml:space="preserve">White Room
 [Previous turn undone.]
@@ -1289,10 +1220,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x19e270" />
+      <child nodeId="node-0x68b06a0" />
     </children>
   </item>
-  <item nodeId="node-0x19e270">
+  <item nodeId="node-0x68b06a0">
     <command xml:space="preserve">open cube</command>
     <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
 
@@ -1301,10 +1232,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7283c0" />
+      <child nodeId="node-0x68b0710" />
     </children>
   </item>
-  <item nodeId="node-0x7283c0">
+  <item nodeId="node-0x68b0710">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">You are far too stupid do that
 &gt;</result>
@@ -1312,10 +1243,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7043390" />
+      <child nodeId="node-0x68b0780" />
     </children>
   </item>
-  <item nodeId="node-0x7043390">
+  <item nodeId="node-0x68b0780">
     <command xml:space="preserve">-_-</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1324,10 +1255,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70ce3c0" />
+      <child nodeId="node-0x68b07f0" />
     </children>
   </item>
-  <item nodeId="node-0x70ce3c0">
+  <item nodeId="node-0x68b07f0">
     <command xml:space="preserve">take supplies</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1336,10 +1267,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb93acb0" />
+      <child nodeId="node-0x68b0860" />
     </children>
   </item>
-  <item nodeId="node-0xb93acb0">
+  <item nodeId="node-0x68b0860">
     <command xml:space="preserve">take glue</command>
     <result xml:space="preserve">Taken.
 
@@ -1348,10 +1279,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70c0d20" />
+      <child nodeId="node-0x68b08d0" />
     </children>
   </item>
-  <item nodeId="node-0x70c0d20">
+  <item nodeId="node-0x68b08d0">
     <command xml:space="preserve">take bubble wrap</command>
     <result xml:space="preserve">Taken.
 
@@ -1360,10 +1291,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70cc7a0" />
+      <child nodeId="node-0x68b0940" />
     </children>
   </item>
-  <item nodeId="node-0x70cc7a0">
+  <item nodeId="node-0x68b0940">
     <command xml:space="preserve">take tape</command>
     <result xml:space="preserve">Taken.
 
@@ -1372,10 +1303,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70c96f0" />
+      <child nodeId="node-0x68b09b0" />
     </children>
   </item>
-  <item nodeId="node-0x70c96f0">
+  <item nodeId="node-0x68b09b0">
     <command xml:space="preserve">take stamps</command>
     <result xml:space="preserve">Taken.
 
@@ -1384,10 +1315,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x19eff0" />
+      <child nodeId="node-0x68b0a20" />
     </children>
   </item>
-  <item nodeId="node-0x19eff0">
+  <item nodeId="node-0x68b0a20">
     <command xml:space="preserve">take condom</command>
     <result xml:space="preserve">WHY WOULD YOU WANT TO TAKE THAT?
 
@@ -1396,10 +1327,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x745370" />
+      <child nodeId="node-0x68b0a90" />
     </children>
   </item>
-  <item nodeId="node-0x745370">
+  <item nodeId="node-0x68b0a90">
     <command xml:space="preserve">fgt</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1408,10 +1339,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70c4ad0" />
+      <child nodeId="node-0x68b0b00" />
     </children>
   </item>
-  <item nodeId="node-0x70c4ad0">
+  <item nodeId="node-0x68b0b00">
     <command xml:space="preserve">take packing supplies</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1420,10 +1351,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70b9930" />
+      <child nodeId="node-0x68b0b70" />
     </children>
   </item>
-  <item nodeId="node-0x70b9930">
+  <item nodeId="node-0x68b0b70">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -1438,10 +1369,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70edfd0" />
+      <child nodeId="node-0x68b0be0" />
     </children>
   </item>
-  <item nodeId="node-0x70edfd0">
+  <item nodeId="node-0x68b0be0">
     <command xml:space="preserve">undo</command>
     <result xml:space="preserve">White Room
 [Previous turn undone.]
@@ -1451,10 +1382,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x19b640" />
+      <child nodeId="node-0x68b0c50" />
     </children>
   </item>
-  <item nodeId="node-0x19b640">
+  <item nodeId="node-0x68b0c50">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -1469,10 +1400,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70ccc80" />
+      <child nodeId="node-0x68b0cc0" />
     </children>
   </item>
-  <item nodeId="node-0x70ccc80">
+  <item nodeId="node-0x68b0cc0">
     <command xml:space="preserve">undo</command>
     <result xml:space="preserve">White Room
 [Previous turn undone.]
@@ -1482,10 +1413,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70c9950" />
+      <child nodeId="node-0x68b0d30" />
     </children>
   </item>
-  <item nodeId="node-0x70c9950">
+  <item nodeId="node-0x68b0d30">
     <command xml:space="preserve">ur close</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1494,10 +1425,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x218700" />
+      <child nodeId="node-0x68b0da0" />
     </children>
   </item>
-  <item nodeId="node-0x218700">
+  <item nodeId="node-0x68b0da0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -1512,10 +1443,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70bdbb0" />
+      <child nodeId="node-0x68b0e10" />
     </children>
   </item>
-  <item nodeId="node-0x70bdbb0">
+  <item nodeId="node-0x68b0e10">
     <command xml:space="preserve">undo</command>
     <result xml:space="preserve">White Room
 [Previous turn undone.]
@@ -1525,10 +1456,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb940730" />
+      <child nodeId="node-0x68b0e80" />
     </children>
   </item>
-  <item nodeId="node-0xb940730">
+  <item nodeId="node-0x68b0e80">
     <command xml:space="preserve">put bubble wrap on</command>
     <result xml:space="preserve">You put on Bubble wrap.
 
@@ -1537,10 +1468,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x798570" />
+      <child nodeId="node-0x68b0ef0" />
     </children>
   </item>
-  <item nodeId="node-0x798570">
+  <item nodeId="node-0x68b0ef0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   sheet of stamps
@@ -1554,10 +1485,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70e9b80" />
+      <child nodeId="node-0x68b0f60" />
     </children>
   </item>
-  <item nodeId="node-0x70e9b80">
+  <item nodeId="node-0x68b0f60">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -1568,10 +1499,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70c19a0" />
+      <child nodeId="node-0x68b0fd0" />
     </children>
   </item>
-  <item nodeId="node-0x70c19a0">
+  <item nodeId="node-0x68b0fd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 White Room
@@ -1582,10 +1513,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70d90b0" />
+      <child nodeId="node-0x68b1040" />
     </children>
   </item>
-  <item nodeId="node-0x70d90b0">
+  <item nodeId="node-0x68b1040">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -1596,10 +1527,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70ce1e0" />
+      <child nodeId="node-0x68b10b0" />
     </children>
   </item>
-  <item nodeId="node-0x70ce1e0">
+  <item nodeId="node-0x68b10b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -1610,10 +1541,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x79d110" />
+      <child nodeId="node-0x68b1120" />
     </children>
   </item>
-  <item nodeId="node-0x79d110">
+  <item nodeId="node-0x68b1120">
     <command xml:space="preserve">aww shit</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1622,10 +1553,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x185c10" />
+      <child nodeId="node-0x68b1190" />
     </children>
   </item>
-  <item nodeId="node-0x185c10">
+  <item nodeId="node-0x68b1190">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -1636,10 +1567,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1a0940" />
+      <child nodeId="node-0x68b1200" />
     </children>
   </item>
-  <item nodeId="node-0x1a0940">
+  <item nodeId="node-0x68b1200">
     <command xml:space="preserve">x cube</command>
     <result xml:space="preserve">A plain orange box
 
@@ -1648,10 +1579,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1b3be0" />
+      <child nodeId="node-0x68b1270" />
     </children>
   </item>
-  <item nodeId="node-0x1b3be0">
+  <item nodeId="node-0x68b1270">
     <command xml:space="preserve">open box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1660,10 +1591,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb9444b0" />
+      <child nodeId="node-0x68b12e0" />
     </children>
   </item>
-  <item nodeId="node-0xb9444b0">
+  <item nodeId="node-0x68b12e0">
     <command xml:space="preserve">open cube</command>
     <result xml:space="preserve">It isn&apos;t something you can open.
 
@@ -1672,10 +1603,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb9426d0" />
+      <child nodeId="node-0x68b1350" />
     </children>
   </item>
-  <item nodeId="node-0xb9426d0">
+  <item nodeId="node-0x68b1350">
     <command xml:space="preserve">x sphere</command>
     <result xml:space="preserve">A plain orange sphere
 
@@ -1684,10 +1615,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb931ca0" />
+      <child nodeId="node-0x68b13c0" />
     </children>
   </item>
-  <item nodeId="node-0xb931ca0">
+  <item nodeId="node-0x68b13c0">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">A plain orange table on a orange rug , on the table is a orange elixir 
 
@@ -1696,10 +1627,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7adeb0" />
+      <child nodeId="node-0x68b1430" />
     </children>
   </item>
-  <item nodeId="node-0x7adeb0">
+  <item nodeId="node-0x68b1430">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">(white elixir)
 You already have that.
@@ -1709,10 +1640,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x727d60" />
+      <child nodeId="node-0x68b14a0" />
     </children>
   </item>
-  <item nodeId="node-0x727d60">
+  <item nodeId="node-0x68b14a0">
     <command xml:space="preserve">take orange elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -1721,10 +1652,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x20c430" />
+      <child nodeId="node-0x68b1510" />
     </children>
   </item>
-  <item nodeId="node-0x20c430">
+  <item nodeId="node-0x68b1510">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Black Room
@@ -1735,10 +1666,10 @@ An all black room with various shapes scatteblack around it, which are also blac
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70e8330" />
+      <child nodeId="node-0x68b1580" />
     </children>
   </item>
-  <item nodeId="node-0x70e8330">
+  <item nodeId="node-0x68b1580">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">(black elixir)
 Taken.
@@ -1748,10 +1679,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb95eaf0" />
+      <child nodeId="node-0x68b15f0" />
     </children>
   </item>
-  <item nodeId="node-0xb95eaf0">
+  <item nodeId="node-0x68b15f0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1760,10 +1691,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70b6730" />
+      <child nodeId="node-0x68b1660" />
     </children>
   </item>
-  <item nodeId="node-0x70b6730">
+  <item nodeId="node-0x68b1660">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Orange Room
@@ -1774,10 +1705,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb95c150" />
+      <child nodeId="node-0x68b16d0" />
     </children>
   </item>
-  <item nodeId="node-0xb95c150">
+  <item nodeId="node-0x68b16d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Pink Room
@@ -1790,10 +1721,10 @@ You can see a narwal here.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb93dd70" />
+      <child nodeId="node-0x68b1740" />
     </children>
   </item>
-  <item nodeId="node-0xb93dd70">
+  <item nodeId="node-0x68b1740">
     <command xml:space="preserve">take pink elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -1802,10 +1733,10 @@ You can see a narwal here.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70f93f0" />
+      <child nodeId="node-0x68b17b0" />
     </children>
   </item>
-  <item nodeId="node-0x70f93f0">
+  <item nodeId="node-0x68b17b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Purple Room
@@ -1816,10 +1747,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70e4cc0" />
+      <child nodeId="node-0x68b1820" />
     </children>
   </item>
-  <item nodeId="node-0x70e4cc0">
+  <item nodeId="node-0x68b1820">
     <command xml:space="preserve">take purple elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -1828,10 +1759,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb952490" />
+      <child nodeId="node-0x68b1890" />
     </children>
   </item>
-  <item nodeId="node-0xb952490">
+  <item nodeId="node-0x68b1890">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 White Room
@@ -1842,10 +1773,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70e2f00" />
+      <child nodeId="node-0x68b1900" />
     </children>
   </item>
-  <item nodeId="node-0x70e2f00">
+  <item nodeId="node-0x68b1900">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green Room
@@ -1856,10 +1787,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70d5e70" />
+      <child nodeId="node-0x68b1970" />
     </children>
   </item>
-  <item nodeId="node-0x70d5e70">
+  <item nodeId="node-0x68b1970">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">(green elixir)
 Taken.
@@ -1869,10 +1800,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7b9df0" />
+      <child nodeId="node-0x68b19e0" />
     </children>
   </item>
-  <item nodeId="node-0x7b9df0">
+  <item nodeId="node-0x68b19e0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 White Room
@@ -1883,10 +1814,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb955890" />
+      <child nodeId="node-0x68b1a50" />
     </children>
   </item>
-  <item nodeId="node-0xb955890">
+  <item nodeId="node-0x68b1a50">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Purple Room
@@ -1897,10 +1828,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x701ec60" />
+      <child nodeId="node-0x68b1ac0" />
     </children>
   </item>
-  <item nodeId="node-0x701ec60">
+  <item nodeId="node-0x68b1ac0">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">Which do you mean, green elixir, purple elixir, pink elixir, black elixir, orange elixir or white elixir?
 
@@ -1909,10 +1840,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70f8680" />
+      <child nodeId="node-0x68b1b30" />
     </children>
   </item>
-  <item nodeId="node-0x70f8680">
+  <item nodeId="node-0x68b1b30">
     <command xml:space="preserve">take purple elixir</command>
     <result xml:space="preserve">You already have that.
 
@@ -1921,10 +1852,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb955520" />
+      <child nodeId="node-0x68b1ba0" />
     </children>
   </item>
-  <item nodeId="node-0xb955520">
+  <item nodeId="node-0x68b1ba0">
     <command xml:space="preserve">?</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1933,10 +1864,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1ba450" />
+      <child nodeId="node-0x68b1c10" />
     </children>
   </item>
-  <item nodeId="node-0x1ba450">
+  <item nodeId="node-0x68b1c10">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   green elixir
@@ -1955,10 +1886,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb962a10" />
+      <child nodeId="node-0x68b1c80" />
     </children>
   </item>
-  <item nodeId="node-0xb962a10">
+  <item nodeId="node-0x68b1c80">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1967,10 +1898,10 @@ An all purple room with various shapes scattepurple around it, which are also pu
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb9695a0" />
+      <child nodeId="node-0x68b1cf0" />
     </children>
   </item>
-  <item nodeId="node-0xb9695a0">
+  <item nodeId="node-0x68b1cf0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 White Room
@@ -1981,10 +1912,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf26f00" />
+      <child nodeId="node-0x68b1d60" />
     </children>
   </item>
-  <item nodeId="node-0xcf26f00">
+  <item nodeId="node-0x68b1d60">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -1995,10 +1926,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf29100" />
+      <child nodeId="node-0x68b1dd0" />
     </children>
   </item>
-  <item nodeId="node-0xcf29100">
+  <item nodeId="node-0x68b1dd0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening door1)
 It seems to be locked.
@@ -2008,10 +1939,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf26240" />
+      <child nodeId="node-0x68b1e40" />
     </children>
   </item>
-  <item nodeId="node-0xcf26240">
+  <item nodeId="node-0x68b1e40">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   green elixir
@@ -2030,10 +1961,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb97e0a0" />
+      <child nodeId="node-0x68b1eb0" />
     </children>
   </item>
-  <item nodeId="node-0xb97e0a0">
+  <item nodeId="node-0x68b1eb0">
     <command xml:space="preserve">x door1</command>
     <result xml:space="preserve">A door labled door 1  with a piece of paper stuck to it 
 
@@ -2042,10 +1973,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1c8070" />
+      <child nodeId="node-0x68b1f20" />
     </children>
   </item>
-  <item nodeId="node-0x1c8070">
+  <item nodeId="node-0x68b1f20">
     <command xml:space="preserve">take paper</command>
     <result xml:space="preserve">Taken.
 
@@ -2054,10 +1985,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7004c60" />
+      <child nodeId="node-0x68b1f90" />
     </children>
   </item>
-  <item nodeId="node-0x7004c60">
+  <item nodeId="node-0x68b1f90">
     <command xml:space="preserve">x paper</command>
     <result xml:space="preserve">a crumpled piece of paper
 
@@ -2066,10 +1997,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb96c850" />
+      <child nodeId="node-0x68b2000" />
     </children>
   </item>
-  <item nodeId="node-0xb96c850">
+  <item nodeId="node-0x68b2000">
     <command xml:space="preserve">x door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2078,10 +2009,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70169d0" />
+      <child nodeId="node-0x68b2070" />
     </children>
   </item>
-  <item nodeId="node-0x70169d0">
+  <item nodeId="node-0x68b2070">
     <command xml:space="preserve">read paper</command>
     <result xml:space="preserve">the paper reads GROW your brain
 &gt;</result>
@@ -2089,10 +2020,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb97fe50" />
+      <child nodeId="node-0x68b20e0" />
     </children>
   </item>
-  <item nodeId="node-0xb97fe50">
+  <item nodeId="node-0x68b20e0">
     <command xml:space="preserve">drink green elixir</command>
     <result xml:space="preserve">There&apos;s nothing suitable to drink here.
 
@@ -2101,10 +2032,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70e96b0" />
+      <child nodeId="node-0x68b2150" />
     </children>
   </item>
-  <item nodeId="node-0x70e96b0">
+  <item nodeId="node-0x68b2150">
     <command xml:space="preserve">x doorl</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2113,10 +2044,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1a7560" />
+      <child nodeId="node-0x68b21c0" />
     </children>
   </item>
-  <item nodeId="node-0x1a7560">
+  <item nodeId="node-0x68b21c0">
     <command xml:space="preserve">x door1</command>
     <result xml:space="preserve">A door labled door 1 
 
@@ -2125,10 +2056,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x21e060" />
+      <child nodeId="node-0x68b2230" />
     </children>
   </item>
-  <item nodeId="node-0x21e060">
+  <item nodeId="node-0x68b2230">
     <command xml:space="preserve">combine the elixirs</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2137,10 +2068,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb990c30" />
+      <child nodeId="node-0x68b22a0" />
     </children>
   </item>
-  <item nodeId="node-0xb990c30">
+  <item nodeId="node-0x68b22a0">
     <command xml:space="preserve">take red elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -2149,10 +2080,10 @@ It seems to be locked.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb996e50" />
+      <child nodeId="node-0x68b2310" />
     </children>
   </item>
-  <item nodeId="node-0xb996e50">
+  <item nodeId="node-0x68b2310">
     <command xml:space="preserve">combine green elixir with red elixir</command>
     <result xml:space="preserve">You mix  together green elixir and red elixir.
 
@@ -2163,10 +2094,10 @@ You now have a RedGreen elixir.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1c8dd0" />
+      <child nodeId="node-0x68b2380" />
     </children>
   </item>
-  <item nodeId="node-0x1c8dd0">
+  <item nodeId="node-0x68b2380">
     <command xml:space="preserve">combine orange elixir with white elixir</command>
     <result xml:space="preserve">You mix  together orange elixir and white elixir.
 
@@ -2177,10 +2108,10 @@ You now have a OrangeWhite elixir.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70ea350" />
+      <child nodeId="node-0x68b23f0" />
     </children>
   </item>
-  <item nodeId="node-0x70ea350">
+  <item nodeId="node-0x68b23f0">
     <command xml:space="preserve">combine orangewhite elixir with redgreen elixir</command>
     <result xml:space="preserve">You mix  together OrangeWhite elixir and RedGreen elixir.
 
@@ -2191,10 +2122,10 @@ You now have a magic potion.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb9915f0" />
+      <child nodeId="node-0x68b2460" />
     </children>
   </item>
-  <item nodeId="node-0xb9915f0">
+  <item nodeId="node-0x68b2460">
     <command xml:space="preserve">drink potion</command>
     <result xml:space="preserve">you feel a bit smarter and stronger and also realize that you have a key hanging around your neck
 &gt;</result>
@@ -2202,10 +2133,10 @@ You now have a magic potion.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1cca10" />
+      <child nodeId="node-0x68b24d0" />
     </children>
   </item>
-  <item nodeId="node-0x1cca10">
+  <item nodeId="node-0x68b24d0">
     <command xml:space="preserve">unlock door with key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2214,10 +2145,10 @@ You now have a magic potion.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7015720" />
+      <child nodeId="node-0x68b2540" />
     </children>
   </item>
-  <item nodeId="node-0x7015720">
+  <item nodeId="node-0x68b2540">
     <command xml:space="preserve">unlock door1 with key</command>
     <result xml:space="preserve">You unlock door1.
 
@@ -2226,10 +2157,10 @@ You now have a magic potion.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb958880" />
+      <child nodeId="node-0x68b25b0" />
     </children>
   </item>
-  <item nodeId="node-0xb958880">
+  <item nodeId="node-0x68b25b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening door1)
 
@@ -2241,10 +2172,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1c8d30" />
+      <child nodeId="node-0x68b2620" />
     </children>
   </item>
-  <item nodeId="node-0x1c8d30">
+  <item nodeId="node-0x68b2620">
     <command xml:space="preserve">x door2</command>
     <result xml:space="preserve">A door labled door2 that is unlocked but has no door handle on it
 
@@ -2253,10 +2184,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf31f50" />
+      <child nodeId="node-0x68b2690" />
     </children>
   </item>
-  <item nodeId="node-0xcf31f50">
+  <item nodeId="node-0x68b2690">
     <command xml:space="preserve">take yellow elixir</command>
     <result xml:space="preserve">Which do you mean, Yellow sphere, Yellow light bulb, Yellow celling lamp, Yellow cube, yellow table or Yellow rug?
 
@@ -2265,10 +2196,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7008f10" />
+      <child nodeId="node-0x68b2700" />
     </children>
   </item>
-  <item nodeId="node-0x7008f10">
+  <item nodeId="node-0x68b2700">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">A plain yellow table on a yellow rug
 
@@ -2277,10 +2208,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf2dfa0" />
+      <child nodeId="node-0x68b2770" />
     </children>
   </item>
-  <item nodeId="node-0xcf2dfa0">
+  <item nodeId="node-0x68b2770">
     <command xml:space="preserve">x cube</command>
     <result xml:space="preserve">A plain yellow box
 
@@ -2289,10 +2220,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf3e430" />
+      <child nodeId="node-0x68b27e0" />
     </children>
   </item>
-  <item nodeId="node-0xcf3e430">
+  <item nodeId="node-0x68b27e0">
     <command xml:space="preserve">x sphere</command>
     <result xml:space="preserve">A plain yellow sphere
 
@@ -2301,10 +2232,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1bcc40" />
+      <child nodeId="node-0x68b2850" />
     </children>
   </item>
-  <item nodeId="node-0x1bcc40">
+  <item nodeId="node-0x68b2850">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2313,10 +2244,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf38f90" />
+      <child nodeId="node-0x68b28c0" />
     </children>
   </item>
-  <item nodeId="node-0xcf38f90">
+  <item nodeId="node-0x68b28c0">
     <command xml:space="preserve">open door2</command>
     <result xml:space="preserve">You try to open the door, but there is no handle to open it with
 &gt;</result>
@@ -2324,10 +2255,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb97df20" />
+      <child nodeId="node-0x68b2930" />
     </children>
   </item>
-  <item nodeId="node-0xb97df20">
+  <item nodeId="node-0x68b2930">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   key
@@ -2345,10 +2276,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70252d0" />
+      <child nodeId="node-0x68b29a0" />
     </children>
   </item>
-  <item nodeId="node-0x70252d0">
+  <item nodeId="node-0x68b29a0">
     <command xml:space="preserve">glue key to door2</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2357,10 +2288,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb961130" />
+      <child nodeId="node-0x68b2a10" />
     </children>
   </item>
-  <item nodeId="node-0xb961130">
+  <item nodeId="node-0x68b2a10">
     <command xml:space="preserve">combine glue with key</command>
     <result xml:space="preserve">You can&apos;t combine bottle of glue and key into anything useful.
 Try another combination of things.
@@ -2370,10 +2301,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x701a900" />
+      <child nodeId="node-0x68b2a80" />
     </children>
   </item>
-  <item nodeId="node-0x701a900">
+  <item nodeId="node-0x68b2a80">
     <command xml:space="preserve">combine glue with stamps</command>
     <result xml:space="preserve">You can&apos;t combine bottle of glue and sheet of stamps into anything useful.
 Try another combination of things.
@@ -2383,10 +2314,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7bcaa0" />
+      <child nodeId="node-0x68b2af0" />
     </children>
   </item>
-  <item nodeId="node-0x7bcaa0">
+  <item nodeId="node-0x68b2af0">
     <command xml:space="preserve">put glue on door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2395,10 +2326,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb9a78e0" />
+      <child nodeId="node-0x68b2b60" />
     </children>
   </item>
-  <item nodeId="node-0xb9a78e0">
+  <item nodeId="node-0x68b2b60">
     <command xml:space="preserve">put glue on door2</command>
     <result xml:space="preserve">Putting things on door2 would achieve nothing.
 
@@ -2407,10 +2338,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb978510" />
+      <child nodeId="node-0x68b2bd0" />
     </children>
   </item>
-  <item nodeId="node-0xb978510">
+  <item nodeId="node-0x68b2bd0">
     <command xml:space="preserve">put glue on table</command>
     <result xml:space="preserve">Putting things on yellow table would achieve nothing.
 
@@ -2419,10 +2350,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x700dde0" />
+      <child nodeId="node-0x68b2c40" />
     </children>
   </item>
-  <item nodeId="node-0x700dde0">
+  <item nodeId="node-0x68b2c40">
     <command xml:space="preserve">put glue on cube</command>
     <result xml:space="preserve">Putting things on Yellow cube would achieve nothing.
 
@@ -2431,10 +2362,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb98cda0" />
+      <child nodeId="node-0x68b2cb0" />
     </children>
   </item>
-  <item nodeId="node-0xb98cda0">
+  <item nodeId="node-0x68b2cb0">
     <command xml:space="preserve">?</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2443,10 +2374,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7c4a80" />
+      <child nodeId="node-0x68b2d20" />
     </children>
   </item>
-  <item nodeId="node-0x7c4a80">
+  <item nodeId="node-0x68b2d20">
     <command xml:space="preserve">put glue on hand</command>
     <result xml:space="preserve">You put the glue on your hand
 &gt;</result>
@@ -2454,10 +2385,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf61f80" />
+      <child nodeId="node-0x68b2d90" />
     </children>
   </item>
-  <item nodeId="node-0xcf61f80">
+  <item nodeId="node-0x68b2d90">
     <command xml:space="preserve">put hand on door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2466,10 +2397,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf48bf0" />
+      <child nodeId="node-0x68b2e00" />
     </children>
   </item>
-  <item nodeId="node-0xcf48bf0">
+  <item nodeId="node-0x68b2e00">
     <command xml:space="preserve">put hand on door2</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2478,10 +2409,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70de480" />
+      <child nodeId="node-0x68b2e70" />
     </children>
   </item>
-  <item nodeId="node-0x70de480">
+  <item nodeId="node-0x68b2e70">
     <command xml:space="preserve">open door2</command>
     <result xml:space="preserve">You stick your hand to the door and pull it open
 &gt;</result>
@@ -2489,10 +2420,10 @@ Try another combination of things.
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x1d0ac0" />
+      <child nodeId="node-0x68b2ee0" />
     </children>
   </item>
-  <item nodeId="node-0x1d0ac0">
+  <item nodeId="node-0x68b2ee0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening door2)
 
@@ -2504,10 +2435,10 @@ An all blue room with various shapes scatteblue around it, which are also blue. 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xb970d10" />
+      <child nodeId="node-0x68b2f50" />
     </children>
   </item>
-  <item nodeId="node-0xb970d10">
+  <item nodeId="node-0x68b2f50">
     <command xml:space="preserve">FUCK</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2516,10 +2447,10 @@ An all blue room with various shapes scatteblue around it, which are also blue. 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x7042290" />
+      <child nodeId="node-0x68b2fc0" />
     </children>
   </item>
-  <item nodeId="node-0x7042290">
+  <item nodeId="node-0x68b2fc0">
     <command xml:space="preserve">take blue elixir</command>
     <result xml:space="preserve">Which do you mean, Blue sphere, Blue light bulb, Blue celling lamp, Blue cube, blue table or Blue rug?
 
@@ -2528,10 +2459,10 @@ An all blue room with various shapes scatteblue around it, which are also blue. 
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0xcf47df0" />
+      <child nodeId="node-0x68b3030" />
     </children>
   </item>
-  <item nodeId="node-0xcf47df0">
+  <item nodeId="node-0x68b3030">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">You are far too stupid do that
 There are none at all available!
@@ -2541,10 +2472,10 @@ There are none at all available!
     <changed>YES</changed>
     <temporary score="117">YES</temporary>
     <children>
-      <child nodeId="node-0x70275d0" />
+      <child nodeId="node-0x68b30a0" />
     </children>
   </item>
-  <item nodeId="node-0x70275d0">
+  <item nodeId="node-0x68b30a0">
     <command xml:space="preserve">x door3</command>
     <result xml:space="preserve">Door 3
 
@@ -2553,7 +2484,130 @@ There are none at all available!
     <changed>YES</changed>
     <temporary score="116">YES</temporary>
   </item>
-  <item nodeId="node-0x1d7720">
+  <item nodeId="node-0x68af9f0">
+    <command xml:space="preserve">x door</command>
+    <result xml:space="preserve">please specify which door you want to examine
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afa60" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afa60">
+    <command xml:space="preserve">x door2</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afad0">
+    <command xml:space="preserve">x door1</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afb40" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afb40">
+    <command xml:space="preserve">x door3</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afbb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afbb0">
+    <command xml:space="preserve">open cube</command>
+    <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afc20" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afc20">
+    <command xml:space="preserve">wear bubble wrap</command>
+    <result xml:space="preserve">(first taking Bubble wrap)
+You put on Bubble wrap.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afc90" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afc90">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Purple Room
+An all purple room with various shapes scattered around it, which are also purple. In the corner there is a purple cube and in the center of the room there is a purple sphere. Hanging from the celling is a purple celling lamp whit a purple bulb inside of it. On the floor is a purple rug with a purple table on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afd00" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afd00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+White Room
+An all white room with various shapes scattered around it, which are also white. In the corner there is a white cube and in the center of the room there is a white sphere. Hanging from the celling is a white celling lamp white a white bulb inside of it. On the floor is a white rug with a white table on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afd70" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afd70">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Red Room
+An all red room with various shapes scattered around it, which are also red. In the corner there is a red cube and in the center of the room there is a red sphere. Hanging from the celling is a red celling lamp whit a red bulb inside of it. On the floor is a red rug with a red table on it. to the west there is a door labled door1.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x68afde0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68afde0">
+    <command xml:space="preserve">x door1</command>
+    <result xml:space="preserve">A door labled Door1 with a piece of paper stuck to it 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+  </item>
+  <item nodeId="node-0x68b3110">
     <command xml:space="preserve">ask narwal</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2562,10 +2616,10 @@ There are none at all available!
     <changed>YES</changed>
     <temporary score="169">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7790" />
+      <child nodeId="node-0x68b3180" />
     </children>
   </item>
-  <item nodeId="node-0x1d7790">
+  <item nodeId="node-0x68b3180">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -2580,10 +2634,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7800" />
+      <child nodeId="node-0x68b31f0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7800">
+  <item nodeId="node-0x68b31f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Please give one of the answers above.
 
@@ -2593,7 +2647,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="27">YES</temporary>
   </item>
-  <item nodeId="node-0x1d7870">
+  <item nodeId="node-0x68b3260">
     <command xml:space="preserve">open white cube</command>
     <result xml:space="preserve">You open the white cube revealing an assortment of packing supplies, including  a bottle of glue, a roll of bubble wrap, a roll of tape,a sheet of stamps, a used condom and a generous sprinkling of glitter inside of the cube.
 
@@ -2610,10 +2664,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="171">YES</temporary>
     <children>
-      <child nodeId="node-0x1d78e0" />
+      <child nodeId="node-0x68b32d0" />
     </children>
   </item>
-  <item nodeId="node-0x1d78e0">
+  <item nodeId="node-0x68b32d0">
     <command xml:space="preserve">take used condom</command>
     <result xml:space="preserve">WHY WOULD YOU WANT TO TAKE THAT?
 
@@ -2622,10 +2676,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7950" />
+      <child nodeId="node-0x68b3340" />
     </children>
   </item>
-  <item nodeId="node-0x1d7950">
+  <item nodeId="node-0x68b3340">
     <command xml:space="preserve">take wrap</command>
     <result xml:space="preserve">Taken.
 
@@ -2634,10 +2688,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d79c0" />
+      <child nodeId="node-0x68b33b0" />
     </children>
   </item>
-  <item nodeId="node-0x1d79c0">
+  <item nodeId="node-0x68b33b0">
     <command xml:space="preserve">take glue</command>
     <result xml:space="preserve">Taken.
 
@@ -2646,10 +2700,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7a30" />
+      <child nodeId="node-0x68b3420" />
     </children>
   </item>
-  <item nodeId="node-0x1d7a30">
+  <item nodeId="node-0x68b3420">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -2658,10 +2712,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7aa0" />
+      <child nodeId="node-0x68b3490" />
     </children>
   </item>
-  <item nodeId="node-0x1d7aa0">
+  <item nodeId="node-0x68b3490">
     <command xml:space="preserve">wear wrap</command>
     <result xml:space="preserve">You put on Bubble wrap.
 
@@ -2670,10 +2724,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7b10" />
+      <child nodeId="node-0x68b3500" />
     </children>
   </item>
-  <item nodeId="node-0x1d7b10">
+  <item nodeId="node-0x68b3500">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -2684,10 +2738,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7b80" />
+      <child nodeId="node-0x68b3570" />
     </children>
   </item>
-  <item nodeId="node-0x1d7b80">
+  <item nodeId="node-0x68b3570">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening door1)
 
@@ -2699,10 +2753,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7bf0" />
+      <child nodeId="node-0x68b35e0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7bf0">
+  <item nodeId="node-0x68b35e0">
     <command xml:space="preserve">open door2</command>
     <result xml:space="preserve">You try to open the door, but there is no handle to open it with
 &gt;</result>
@@ -2710,10 +2764,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7c60" />
+      <child nodeId="node-0x68b3650" />
     </children>
   </item>
-  <item nodeId="node-0x1d7c60">
+  <item nodeId="node-0x68b3650">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   bottle of glue
@@ -2724,10 +2778,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7cd0" />
+      <child nodeId="node-0x68b36c0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7cd0">
+  <item nodeId="node-0x68b36c0">
     <command xml:space="preserve">put glue on hand</command>
     <result xml:space="preserve">You put the glue on your hand
 &gt;</result>
@@ -2735,7 +2789,7 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
   </item>
-  <item nodeId="node-0x1d7db0">
+  <item nodeId="node-0x68b3730">
     <command xml:space="preserve">ope  white cube</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2744,10 +2798,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7e20" />
+      <child nodeId="node-0x68b37a0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7e20">
+  <item nodeId="node-0x68b37a0">
     <command xml:space="preserve">open white cube</command>
     <result xml:space="preserve">You open White cube, revealing nothing.
 
@@ -2756,10 +2810,10 @@ An all yellow room with various shapes scatteyellow around it, which are also ye
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7e90" />
+      <child nodeId="node-0x68b3810" />
     </children>
   </item>
-  <item nodeId="node-0x1d7e90">
+  <item nodeId="node-0x68b3810">
     <command xml:space="preserve">put on bubble wrap</command>
     <result xml:space="preserve">(first taking Bubble wrap)
 You put on Bubble wrap.
@@ -2769,10 +2823,10 @@ You put on Bubble wrap.
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7f00" />
+      <child nodeId="node-0x68b3880" />
     </children>
   </item>
-  <item nodeId="node-0x1d7f00">
+  <item nodeId="node-0x68b3880">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -2782,10 +2836,10 @@ Orange Room
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7f70" />
+      <child nodeId="node-0x68b38f0" />
     </children>
   </item>
-  <item nodeId="node-0x1d7f70">
+  <item nodeId="node-0x68b38f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 White Room
@@ -2795,10 +2849,10 @@ White Room
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d7fe0" />
+      <child nodeId="node-0x68b3960" />
     </children>
   </item>
-  <item nodeId="node-0x1d7fe0">
+  <item nodeId="node-0x68b3960">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Purple Room
@@ -2808,10 +2862,10 @@ Purple Room
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8050" />
+      <child nodeId="node-0x68b39d0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8050">
+  <item nodeId="node-0x68b39d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 White Room
@@ -2821,10 +2875,10 @@ White Room
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d80c0" />
+      <child nodeId="node-0x68b3a40" />
     </children>
   </item>
-  <item nodeId="node-0x1d80c0">
+  <item nodeId="node-0x68b3a40">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -2834,10 +2888,10 @@ Orange Room
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8130" />
+      <child nodeId="node-0x68b3ab0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8130">
+  <item nodeId="node-0x68b3ab0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Pink Room
@@ -2848,10 +2902,10 @@ You can see a narwal here.
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d81a0" />
+      <child nodeId="node-0x68b3b20" />
     </children>
   </item>
-  <item nodeId="node-0x1d81a0">
+  <item nodeId="node-0x68b3b20">
     <command xml:space="preserve">talk to narwal</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2860,10 +2914,10 @@ You can see a narwal here.
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8210" />
+      <child nodeId="node-0x68b3b90" />
     </children>
   </item>
-  <item nodeId="node-0x1d8210">
+  <item nodeId="node-0x68b3b90">
     <command xml:space="preserve">ask narwal</command>
     <result xml:space="preserve">(for Bubble wrap)
 (the narwal first taking Bubble wrap)
@@ -2874,10 +2928,10 @@ The narwal has better things to do.
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8280" />
+      <child nodeId="node-0x68b3c00" />
     </children>
   </item>
-  <item nodeId="node-0x1d8280">
+  <item nodeId="node-0x68b3c00">
     <command xml:space="preserve">rules on</command>
     <result xml:space="preserve">Rules tracing now switched on. Type &quot;rules off&quot; to switch it off again, or &quot;rules all&quot; to include even rules which do not apply.
 
@@ -2886,10 +2940,10 @@ The narwal has better things to do.
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
     <children>
-      <child nodeId="node-0x1d82f0" />
+      <child nodeId="node-0x68b3c70" />
     </children>
   </item>
-  <item nodeId="node-0x1d82f0">
+  <item nodeId="node-0x68b3c70">
     <command xml:space="preserve">ask narwal</command>
     <result xml:space="preserve">[Rule &quot;After reading a command&quot; applies.]
 (for Bubble wrap)
@@ -2922,7 +2976,7 @@ The narwal has better things to do.
     <changed>YES</changed>
     <temporary score="24">YES</temporary>
   </item>
-  <item nodeId="node-0x1d8360">
+  <item nodeId="node-0x68b3ce0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   magic potion
@@ -2932,7 +2986,7 @@ The narwal has better things to do.
     <changed>YES</changed>
     <temporary score="63">YES</temporary>
   </item>
-  <item nodeId="node-0x1d83d0">
+  <item nodeId="node-0x68b3d50">
     <command xml:space="preserve">rules on</command>
     <result xml:space="preserve">Rules tracing now switched on. Type &quot;rules off&quot; to switch it off again, or &quot;rules all&quot; to include even rules which do not apply.
 
@@ -2941,10 +2995,10 @@ The narwal has better things to do.
     <changed>NO</changed>
     <temporary score="39">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8440" />
+      <child nodeId="node-0x68b3dc0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8440">
+  <item nodeId="node-0x68b3dc0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">[Rule &quot;After reading a command&quot; applies.]
 You run into the wall and die
@@ -2964,10 +3018,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="39">YES</temporary>
     <children>
-      <child nodeId="node-0x1d84b0" />
+      <child nodeId="node-0x68b3e30" />
     </children>
   </item>
-  <item nodeId="node-0x1d84b0">
+  <item nodeId="node-0x68b3e30">
     <command xml:space="preserve">rules off</command>
     <result xml:space="preserve">[Rule &quot;standard respond to final question rule&quot; applies.]
 Please give one of the answers above.
@@ -2980,7 +3034,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="38">YES</temporary>
   </item>
-  <item nodeId="node-0x155b0cd0">
+  <item nodeId="node-0x68b3ea0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You run into the wall and die
 
@@ -2995,7 +3049,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="174">YES</temporary>
   </item>
-  <item nodeId="node-0x1d8590">
+  <item nodeId="node-0x68b3f10">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -3004,10 +3058,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8600" />
+      <child nodeId="node-0x68b3f80" />
     </children>
   </item>
-  <item nodeId="node-0x1d8600">
+  <item nodeId="node-0x68b3f80">
     <command xml:space="preserve">open cube</command>
     <result xml:space="preserve">You open White cube, revealing bottle of glue.
 
@@ -3016,10 +3070,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8670" />
+      <child nodeId="node-0x68b3ff0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8670">
+  <item nodeId="node-0x68b3ff0">
     <command xml:space="preserve">wear bubble wrap</command>
     <result xml:space="preserve">(first taking Bubble wrap)
 You put on Bubble wrap.
@@ -3029,10 +3083,10 @@ You put on Bubble wrap.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d86e0" />
+      <child nodeId="node-0x68b4060" />
     </children>
   </item>
-  <item nodeId="node-0x1d86e0">
+  <item nodeId="node-0x68b4060">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Red Room
@@ -3043,10 +3097,10 @@ An all red room with various shapes scattered around it, which are also red. In 
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8750" />
+      <child nodeId="node-0x68b40d0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8750">
+  <item nodeId="node-0x68b40d0">
     <command xml:space="preserve">take elixir</command>
     <result xml:space="preserve">(white elixir)
 You already have that.
@@ -3056,10 +3110,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d87c0" />
+      <child nodeId="node-0x68b4140" />
     </children>
   </item>
-  <item nodeId="node-0x1d87c0">
+  <item nodeId="node-0x68b4140">
     <command xml:space="preserve">take red elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -3068,10 +3122,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8830" />
+      <child nodeId="node-0x68b41b0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8830">
+  <item nodeId="node-0x68b41b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 White Room
@@ -3082,10 +3136,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d88a0" />
+      <child nodeId="node-0x68b4220" />
     </children>
   </item>
-  <item nodeId="node-0x1d88a0">
+  <item nodeId="node-0x68b4220">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green Room
@@ -3096,10 +3150,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8910" />
+      <child nodeId="node-0x68b4290" />
     </children>
   </item>
-  <item nodeId="node-0x1d8910">
+  <item nodeId="node-0x68b4290">
     <command xml:space="preserve">take green elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -3108,10 +3162,10 @@ An all green room with various shapes scattegreen around it, which are also gree
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8980" />
+      <child nodeId="node-0x68b4300" />
     </children>
   </item>
-  <item nodeId="node-0x1d8980">
+  <item nodeId="node-0x68b4300">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 White Room
@@ -3122,10 +3176,10 @@ An all white room with various shapes scattered around it, which are also white.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d89f0" />
+      <child nodeId="node-0x68b4370" />
     </children>
   </item>
-  <item nodeId="node-0x1d89f0">
+  <item nodeId="node-0x68b4370">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Orange Room
@@ -3136,10 +3190,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8a60" />
+      <child nodeId="node-0x68b43e0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8a60">
+  <item nodeId="node-0x68b43e0">
     <command xml:space="preserve">take orange elixir</command>
     <result xml:space="preserve">Taken.
 
@@ -3148,10 +3202,10 @@ An all orange room with various shapes scatteorange around it, which are also or
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8ad0" />
+      <child nodeId="node-0x68b4450" />
     </children>
   </item>
-  <item nodeId="node-0x1d8ad0">
+  <item nodeId="node-0x68b4450">
     <command xml:space="preserve">combine orange elixir with white elixir</command>
     <result xml:space="preserve">You fuse together orange elixir and white elixir.
 
@@ -3162,10 +3216,10 @@ You now have a OrangeWhite elixir.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8b40" />
+      <child nodeId="node-0x68b44c0" />
     </children>
   </item>
-  <item nodeId="node-0x1d8b40">
+  <item nodeId="node-0x68b44c0">
     <command xml:space="preserve">combine green elixer with red elixir</command>
     <result xml:space="preserve">I didn&apos;t understand that sentence.
 
@@ -3174,10 +3228,10 @@ You now have a OrangeWhite elixir.
     <changed>YES</changed>
     <temporary score="47">YES</temporary>
     <children>
-      <child nodeId="node-0x1d8bb0" />
+      <child nodeId="node-0x68b4530" />
     </children>
   </item>
-  <item nodeId="node-0x1d8bb0">
+  <item nodeId="node-0x68b4530">
     <command xml:space="preserve">combine green elixir with red elixir</command>
     <result xml:space="preserve">You fuse together green elixir and red elixir.
 
