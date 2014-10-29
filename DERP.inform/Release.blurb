@@ -6,6 +6,7 @@ status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbMo
 ! Identification
 
 project folder "/Users/dnmiller16/Desktop/inform work/DERP/DERP.inform"
+release to "/Users/dnmiller16/Desktop/inform work/DERP/DERP.materials/Release"
 
 ! Blorb instructions
 
